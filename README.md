@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate IT Student from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&color=00A8E8&center=true&vCenter=true&width=500&lines=IT+Undergraduate;Full-Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&color=00A8E8&center=true&vCenter=true&width=500&lines=IT+Undergraduate;Full-Stack+Developer;AI+%26+Cloud+Enthusiast;Always+Learning+New+Things">
 </p>
 
 ---
